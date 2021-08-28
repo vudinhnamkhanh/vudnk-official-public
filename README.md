@@ -10,7 +10,7 @@
 
 ## 🚀 Bắt đầu
 
-Nếu đưa Heroku, hãy đảm bảo rằng bạn đã cấu hình cho con bot của mình bằng cách dưới đây: 
+Nếu đưa lên Heroku, hãy đảm bảo rằng bạn đã cấu hình cho con bot của mình bằng cách dưới đây: 
 
 ```
 git clone https://github.com/vudinhnamkhanh/vudnk-official.git
