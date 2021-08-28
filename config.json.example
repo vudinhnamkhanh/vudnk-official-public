@@ -1,0 +1,10 @@
+{
+    "prefix": ";;",
+    "admin": ["ID_CUA_BAN"],
+    "embed_colors": {
+        "error": "RED",
+        "warning": "ORANGE",
+        "success": "GREEN",
+        "blacklist": "BLACK"
+    }
+}

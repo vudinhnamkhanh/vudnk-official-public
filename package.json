@@ -1,0 +1,33 @@
+{
+  "name": "vudnk",
+  "version": "2.0.0",
+  "description": "discord bot by cart",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cart69420/cartbot.git"
+  },
+  "author": "cart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cart69420/cartbot/issues"
+  },
+  "homepage": "https://github.com/cart69420/cartbot#readme",
+  "dependencies": {
+    "discord-banner": "^1.6.7",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "os": "^0.1.2",
+    "pretty-ms": "^7.0.1",
+    "simplest.db": "^1.0.1-2",
+    "superagent": "^6.1.0"
+  },
+  "keywords": [
+    "cart"
+  ]
+}
