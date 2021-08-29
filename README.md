@@ -1,5 +1,3 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vudinhnamkhanh/vudnk-music)
-
 # 🤖 Cart Bot (Discord Bot)
 > Cart Bot là một con bot được lập trình bằng discord.js version 13 & sử dụng Command Handler từ [discordjs.guide](https://discordjs.guide)
 
@@ -27,9 +25,7 @@ Copy hoặc Đổi tên `example.env` thành `.env` và điền các thông tin 
 ⚠️ **Lưu ý: Đừng bao giờ chia sẻ TOKEN của bot** ⚠️
 
 ```env
-{
   TOKEN=TOKEN_CUA_BAN
-}
 ```
 Copy hoặc Đổi tên `config.json.example` thành `config.json` và điền các thông tin vào:
 ```json
